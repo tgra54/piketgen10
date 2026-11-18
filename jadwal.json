@@ -1,0 +1,8 @@
+{
+  "_catatan": "Jadwal piket resmi. day: 1=Senin ... 5=Jumat. Nama = nama panggilan; pencocokan ke nama lengkap ada di nama-panggilan.json.",
+  "1": { "Pagi": ["Depi", "Faiz", "Kiana"], "Sore": ["Tegar", "Sipa"] },
+  "2": { "Pagi": ["Rahman", "Erlita"], "Sore": ["Jia", "Yapi"] },
+  "3": { "Pagi": ["Moza", "Hilma"], "Sore": ["Bagaz", "Najwa", "Juan"] },
+  "4": { "Pagi": ["Annisa", "Amira"], "Sore": ["Nisa", "Puja", "Salwa"] },
+  "5": { "Pagi": ["Riska", "Aji"], "Sore": ["Safira", "Toha"] }
+}

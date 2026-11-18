@@ -1,0 +1,291 @@
+{
+ "version": "20ac8ea4330c4bcd",
+ "reset": false,
+ "users": [
+  {
+   "username": "pmr001",
+   "full_name": "Annisa Aufika",
+   "nickname": "Annisa",
+   "role": "member",
+   "hash": "pbkdf2$50000$K9Akb+zwYlF7yjQJ/7ll2Q==$Zjklnl2Tv2+VzPcI8l0hUxcOf6srMOdmdYkm3rwcbxI="
+  },
+  {
+   "username": "pmr002",
+   "full_name": "Siti Fatimah",
+   "nickname": "Sipa",
+   "role": "member",
+   "hash": "pbkdf2$50000$pujAfdHf+Hp+wvLHySu0TA==$d9AjfJ2p/Us/h4/Ls05F3fsmS1cDAkyva3YHBa4ha3c="
+  },
+  {
+   "username": "pmr003",
+   "full_name": "Juan Farulian",
+   "nickname": "Juan",
+   "role": "member",
+   "hash": "pbkdf2$50000$wWae09uR76zZRbYt95PKpA==$BHvxqKmEInemLTW1N7yYcyJq9nLscXkTMeZ3dRbQCGc="
+  },
+  {
+   "username": "pmr004",
+   "full_name": "Zulia Krisnia W",
+   "nickname": "Jia",
+   "role": "member",
+   "hash": "pbkdf2$50000$yQMaCJuVdgL9YKYGXpiwNw==$ODZGgCpIxcW/mRxuIRuCA6zuTtew0fXpRPSnOZq61Vc="
+  },
+  {
+   "username": "pmr005",
+   "full_name": "Erlita Naila A",
+   "nickname": "Erlita",
+   "role": "member",
+   "hash": "pbkdf2$50000$Pxfce2dAg8HCPKv8wZPC9Q==$07RTEAP6iRPBuSysqP1aTIEOT0EXds2KuOy208xCyTE="
+  },
+  {
+   "username": "pmr006",
+   "full_name": "Yuli Rizkiana R",
+   "nickname": "Kiana",
+   "role": "member",
+   "hash": "pbkdf2$50000$uGdoXz3NNP+ogIQe4jR70A==$y952fNwOTeVockmrv4NUwei1cJszVZJKglo+6QvDwvI="
+  },
+  {
+   "username": "pmr007",
+   "full_name": "Devia Mustika W",
+   "nickname": "Depi",
+   "role": "member",
+   "hash": "pbkdf2$50000$Xvv7Uk2L9e6bqnHz6cZagg==$zbGoViulXv0u3hHvrthM/UiL+ss71gi0qLV6dEp4mOo="
+  },
+  {
+   "username": "pmr008",
+   "full_name": "Amira Awardani",
+   "nickname": "Amira",
+   "role": "member",
+   "hash": "pbkdf2$50000$Ka2eJX5Go/DSzd2gzkwKEw==$3vlGo0YDCIkDURZANEkvpZnZvysa57Xt1bMm8RIwv6A="
+  },
+  {
+   "username": "pmr009",
+   "full_name": "Salwa Sofiana",
+   "nickname": "Salwa",
+   "role": "member",
+   "hash": "pbkdf2$50000$czenfr58jyFOBZZYrSo+lw==$2Q031ZcUUb4SJ5wouZboNU/Vwgz8gY+sX2cX16rKDPg="
+  },
+  {
+   "username": "pmr010",
+   "full_name": "Yafi Falaah A",
+   "nickname": "Yapi",
+   "role": "member",
+   "hash": "pbkdf2$50000$S2nOzYzJ3lfpYDAUSqFihA==$vmFB0JEqC6pmMxpkfcbd43hCjxZsXaqMeMbc4o0lyac="
+  },
+  {
+   "username": "pmr011",
+   "full_name": "Safira O",
+   "nickname": "Safira",
+   "role": "member",
+   "hash": "pbkdf2$50000$mYqACFqqnyMXrJHUmUE7ag==$Wt8f/gapXtmnRwiQllmFbMR1Ut6lc837woVvazuXpJo="
+  },
+  {
+   "username": "pmr012",
+   "full_name": "Radhitya Tegar A",
+   "nickname": "Tegar",
+   "role": "member",
+   "hash": "pbkdf2$50000$v0fI8LvWK9uCyPzLXdLfQQ==$3NlvEPh4ZqIbMQGz0k4/HJtDK5OvcqaJmtF8jLMjRzE="
+  },
+  {
+   "username": "pmr013",
+   "full_name": "Moza Valentina V",
+   "nickname": "Moza",
+   "role": "member",
+   "hash": "pbkdf2$50000$mG2N6uOnzlJ+w3l4Qs0gAg==$MTBYkvam5OJgUIiZwZ6iJ/VZlBI9FFmDm3N8cRXxGsg="
+  },
+  {
+   "username": "pmr014",
+   "full_name": "Bagaz Putra P",
+   "nickname": "Bagaz",
+   "role": "member",
+   "hash": "pbkdf2$50000$L/9gluqtqzqXspHQUQ0y3A==$+RsJOlo94krApcR5+83Jy/cCTwx1k6ErbZLrIM/Ays4="
+  },
+  {
+   "username": "pmr015",
+   "full_name": "Faizatun Nisa",
+   "nickname": "Nisa",
+   "role": "member",
+   "hash": "pbkdf2$50000$jQk8pP+TBY0ybifGYCFbpA==$xzRBDc1WUKgV6HFLssSiF2f3QdZckeRj788ZqyWHMWU="
+  },
+  {
+   "username": "pmr016",
+   "full_name": "Najwa Sakira",
+   "nickname": "Najwa",
+   "role": "member",
+   "hash": "pbkdf2$50000$zwglBrdo7WACyJG7qBtSeg==$1uwxMw5JyLKr+eAHznbCiLFCWg0ljae1WwK9yomLyBo="
+  },
+  {
+   "username": "pmr017",
+   "full_name": "Hilmatul F",
+   "nickname": "Hilma",
+   "role": "member",
+   "hash": "pbkdf2$50000$4rs5twMvbrRjUVieSBDvOA==$XxHRqDuTpQth/bS5eGK1+ttE7OYhMm9QMxD79mqxMWE="
+  },
+  {
+   "username": "pmr018",
+   "full_name": "Avdinda Wurizka",
+   "nickname": "Riska",
+   "role": "member",
+   "hash": "pbkdf2$50000$hycCNWIY0eOfUxR7GtvL1Q==$rPP/o3+sCCSTcsspaCAng6si1BkjclQBBhpHhh3tjBg="
+  },
+  {
+   "username": "pmr019",
+   "full_name": "Puja Malika R",
+   "nickname": "Puja",
+   "role": "member",
+   "hash": "pbkdf2$50000$dsJTGdT9vnqVlMPjMmuvjg==$DqIBlCFuRXKVzKkQH2ixbesR0yeA1bnM1Nmj8nLbRf0="
+  },
+  {
+   "username": "pmr020",
+   "full_name": "Muhammad Rahman M",
+   "nickname": "Rahman",
+   "role": "member",
+   "hash": "pbkdf2$50000$BL6mTxuvRA44CbCDFhfaqQ==$+3XZrocX2zE8J2nqSz2+vK1LVwVlFKnU1d+zJ91CE7E="
+  },
+  {
+   "username": "pmr021",
+   "full_name": "Aji Pandawa",
+   "nickname": "Aji",
+   "role": "member",
+   "hash": "pbkdf2$50000$uimzT3ieyapxiP1vOvg6rQ==$GNWS+SqmHZpFSUgIZz6B9sqAI7dKeMnq7T1vB0jaRco="
+  },
+  {
+   "username": "pmr022",
+   "full_name": "Mas' ud Thoha",
+   "nickname": "Toha",
+   "role": "member",
+   "hash": "pbkdf2$50000$X8ppca8QQYiMB43dA327sg==$BhkkGlcevqcOI/k5Rm1mWl2DZ75nUzjkoLlJhPTFnP0="
+  },
+  {
+   "username": "pmr023",
+   "full_name": "Fais Choirun N",
+   "nickname": "Faiz",
+   "role": "member",
+   "hash": "pbkdf2$50000$rk2ie2HT0VWfdGz+bOHdsA==$zDUgVu0JG7iCLAx5F/wK0YjSF5EEnIpV7RSGkjFKq8M="
+  },
+  {
+   "username": "admin321",
+   "full_name": "Admin",
+   "nickname": null,
+   "role": "admin",
+   "hash": "pbkdf2$50000$+02giq1PlOT4rTsGYZP54w==$wcMvtAUW6yvAv8MEs2lcTyXbcjMwln0t7hyYu5+eAlI="
+  }
+ ],
+ "schedule": [
+  {
+   "nickname": "Depi",
+   "day": 1,
+   "session": "Pagi"
+  },
+  {
+   "nickname": "Faiz",
+   "day": 1,
+   "session": "Pagi"
+  },
+  {
+   "nickname": "Kiana",
+   "day": 1,
+   "session": "Pagi"
+  },
+  {
+   "nickname": "Tegar",
+   "day": 1,
+   "session": "Sore"
+  },
+  {
+   "nickname": "Sipa",
+   "day": 1,
+   "session": "Sore"
+  },
+  {
+   "nickname": "Rahman",
+   "day": 2,
+   "session": "Pagi"
+  },
+  {
+   "nickname": "Erlita",
+   "day": 2,
+   "session": "Pagi"
+  },
+  {
+   "nickname": "Jia",
+   "day": 2,
+   "session": "Sore"
+  },
+  {
+   "nickname": "Yapi",
+   "day": 2,
+   "session": "Sore"
+  },
+  {
+   "nickname": "Moza",
+   "day": 3,
+   "session": "Pagi"
+  },
+  {
+   "nickname": "Hilma",
+   "day": 3,
+   "session": "Pagi"
+  },
+  {
+   "nickname": "Bagaz",
+   "day": 3,
+   "session": "Sore"
+  },
+  {
+   "nickname": "Najwa",
+   "day": 3,
+   "session": "Sore"
+  },
+  {
+   "nickname": "Juan",
+   "day": 3,
+   "session": "Sore"
+  },
+  {
+   "nickname": "Annisa",
+   "day": 4,
+   "session": "Pagi"
+  },
+  {
+   "nickname": "Amira",
+   "day": 4,
+   "session": "Pagi"
+  },
+  {
+   "nickname": "Nisa",
+   "day": 4,
+   "session": "Sore"
+  },
+  {
+   "nickname": "Puja",
+   "day": 4,
+   "session": "Sore"
+  },
+  {
+   "nickname": "Salwa",
+   "day": 4,
+   "session": "Sore"
+  },
+  {
+   "nickname": "Riska",
+   "day": 5,
+   "session": "Pagi"
+  },
+  {
+   "nickname": "Aji",
+   "day": 5,
+   "session": "Pagi"
+  },
+  {
+   "nickname": "Safira",
+   "day": 5,
+   "session": "Sore"
+  },
+  {
+   "nickname": "Toha",
+   "day": 5,
+   "session": "Sore"
+  }
+ ]
+}

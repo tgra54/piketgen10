@@ -1,0 +1,19 @@
+{
+  // Nama harus SAMA dengan nama proyek Worker di Cloudflare.
+  "name": "absen-piket-pmr",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-06-01",
+
+  // Halaman web (folder public/). Hanya alamat /api/* yang dijalankan oleh Worker.
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    "run_worker_first": ["/api/*"]
+  },
+
+  // Database & penyimpanan foto. TANPA id: Cloudflare membuatkan otomatis saat deploy pertama.
+  "d1_databases": [{ "binding": "DB", "database_name": "absen-piket-db" }],
+  "r2_buckets": [{ "binding": "BUCKET", "bucket_name": "absen-piket-bukti" }],
+
+  "observability": { "enabled": true }
+}

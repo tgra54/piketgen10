@@ -1,0 +1,14 @@
+{
+  "name": "absen-piket-pmr",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "seed": "node scripts/make-seed.mjs",
+    "seed:reset": "node scripts/make-seed.mjs --reset",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.45.0"
+  }
+}
